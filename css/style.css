@@ -1,0 +1,26 @@
+@import url(css/components/container.css)
+@import url(css/components/avatar.css)
+@import url(css/components/button.css)
+@import url(css/components/banner.css)
+@import url(css/components/card.css)
+
+
+body {
+	font-family: 'Lora'sans-serif;
+	font-size: 18px;
+	margin-left:0px;
+	margin-right: 0px;
+
+
+}
+
+h1,h2,h3 {
+	font-family:'Roboto'sans-serif;
+	font-size:30px;
+	font-weight: bolder;
+
+}
+
+a {
+	text-decoration: none;
+}
